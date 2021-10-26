@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Week2Task\bin\Debug\netcoreapp3.1\Week2Task.exe
+C:\Users\hp\source\repos\Week2Task\bin\Debug\netcoreapp3.1\Week2Task.deps.json
+C:\Users\hp\source\repos\Week2Task\bin\Debug\netcoreapp3.1\Week2Task.runtimeconfig.json
+C:\Users\hp\source\repos\Week2Task\bin\Debug\netcoreapp3.1\Week2Task.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Week2Task\bin\Debug\netcoreapp3.1\Week2Task.dll
+C:\Users\hp\source\repos\Week2Task\bin\Debug\netcoreapp3.1\Week2Task.pdb
+C:\Users\hp\source\repos\Week2Task\obj\Debug\netcoreapp3.1\Week2Task.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Week2Task\obj\Debug\netcoreapp3.1\Week2Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Week2Task\obj\Debug\netcoreapp3.1\Week2Task.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Week2Task\obj\Debug\netcoreapp3.1\Week2Task.AssemblyInfo.cs
+C:\Users\hp\source\repos\Week2Task\obj\Debug\netcoreapp3.1\Week2Task.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Week2Task\obj\Debug\netcoreapp3.1\Week2Task.dll
+C:\Users\hp\source\repos\Week2Task\obj\Debug\netcoreapp3.1\Week2Task.pdb
+C:\Users\hp\source\repos\Week2Task\obj\Debug\netcoreapp3.1\Week2Task.genruntimeconfig.cache
